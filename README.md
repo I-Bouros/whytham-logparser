@@ -1,5 +1,5 @@
-# whytham-logparser
-This package is used for processing logger data files for the Whytham Woods rodent project.
+# wytham-logparser
+This package is used for processing logger data files for the Wytham Woods rodent project.
 
 ## Input Folder (Logger Data)
 
