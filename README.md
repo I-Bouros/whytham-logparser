@@ -3,7 +3,7 @@ This package is used for processing logger data files for the Wytham Woods roden
 
 ## Input Folder (Logger Data)
 
-All data files containing logger outputs are stored in the folder designated by the logger ID. For example, all data collected by the logger O80A are stored in the folder 080A. All logger files follow the same naming convention: *-DATA-loggerID.txt.
+All data files containing logger outputs are stored in the folder designated by the logger ID. For example, all data collected by the logger 080A are stored in the folder 080A. All logger files follow the same naming convention: *-DATA-loggerID.txt.
 
 In this folder we also have the EWYT_Project_Logger_Movements.csv file, which contains all logger positions in the grid on the day of each grid reshuffling.
 
