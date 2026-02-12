@@ -42,7 +42,7 @@ setup(
     # Version
     version=get_version(),
 
-    description='This is a one-week project in which we are using branching processes to estimate the time-dependent reproduction number of a disease.',  # noqa
+    description='Package for processing logger data files for the Wytham Woods rodent project.',  # noqa
 
     long_description=get_readme(),
 
